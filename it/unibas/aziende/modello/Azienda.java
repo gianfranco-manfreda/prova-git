@@ -28,6 +28,10 @@ public class Azienda {
         return denominazione;
     }
 
+    public String prova(){
+    	return "prova con git";
+    }
+
     public void setDenominazione(String denominazione) {
         this.denominazione = denominazione;
     }
